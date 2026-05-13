@@ -4,8 +4,7 @@
 
 **Orientation, citation guidance, and FAQ for the praxichnology field commons.**
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.20148906-blue)](https://doi.org/10.5281/zenodo.20148906)
-[![EdArXiv](https://img.shields.io/badge/EdArXiv-10.35542%2Fosf.io%2Fx4n7u-orange)](https://doi.org/10.35542/osf.io/x4n7u_v1)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20148907-blue)](https://doi.org/10.5281/zenodo.20148907)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 </div>
