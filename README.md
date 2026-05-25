@@ -65,17 +65,6 @@ Additional tools and methodological artifacts will be added under this org as th
 
 ---
 
-## Guides
-
-Practical how-tos for participating in the field commons. Written for researchers comfortable with GitHub but new to the scholarly-archive side.
-
-- [Adding your work to the Praxichnology Zenodo community](guides/submit-to-the-zenodo-community.md) — how to deposit a preprint, paper, dataset, or methodological artifact on Zenodo and add it under the praxichnology umbrella. No Zenodo experience assumed.
-- [Which DOI do I share?](guides/which-doi-to-share.md) — version vs. concept DOIs, and the one-DOI rule that keeps citations consistent.
-- [Dual-depositing: reach and citability together](guides/dual-depositing.md) — posting on EdArXiv and Zenodo at once, and how to crosslink the two records.
-- [Citing praxichnology](guides/citing-praxichnology.md) — how to cite the field, the preprint, PeTRA, and the forthcoming book (APA + BibTeX).
-
----
-
 ## FAQ
 
 *FAQ entries will be added as questions accumulate from readers and collaborators.*
